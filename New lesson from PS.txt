@@ -1,0 +1,57 @@
+ctrl+del -> apply bg color
+alt+del -> apply foreground color
+v -> move tool or selection tool
+m -> marque tool
+w -> magic tool
+b -> brush tool
+s -> stole tool
+
+ctrl + t -> select the image
+alt + shift -> to not damage the image pexel
+
+Passport
+---------
+
+Ctrl+alt+c -> canvas inside image tab
+
+croptool
+
+wid: 1.38in
+heigh:1.77in
+res:200
+
+
+wid:1.5in
+heigh:2in
+
+edit->stroke
+
+3px black
+
+edit->define pattern
+
+ctrl+n
+
+wid:1200px
+heig:800px
+
+
+shift+f5 -> fill
+
+ctrl+d -> deselect
+ctrl+j -> duplicate
+
+
+shift+alt+[ -> too select all layers
+
+t- text short cut
+ctrl+enter -uderline cancel
+
+ctrl+t-> transform
+
+ctrl+alt+g-> clipping mask
+
+
+
+
+
