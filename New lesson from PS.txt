@@ -52,6 +52,11 @@ ctrl+t-> transform
 ctrl+alt+g-> clipping mask
 
 
+Transparent Text
+
+open img
+select crop tool-> 1920 and 1080
+
 
 
 
