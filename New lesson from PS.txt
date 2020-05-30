@@ -52,11 +52,32 @@ ctrl+t-> transform
 ctrl+alt+g-> clipping mask
 
 
-Transparent Text
+pencil drawing:)
 
 open img
-select crop tool-> 1920 and 1080
+duplicate copy
+effects->vue satuation -100 both
 
+normal-> color dodth
 
+ctrl+i
 
+filter-> blur-> gaussion blur adjust the level bar
+
+eraser tool(e)
+
+ctrl+m -> curves
+ctrl+l -> levels
+
+paint tool to erase background unwanted stuffs
+
+new topic_____
+
+ctrl+0(zero)-> full size img
+
+ctrl+alt+i-> image size
+
+resolution->1600
+
+img-> adjust-> brightness and const->const>+100
 
