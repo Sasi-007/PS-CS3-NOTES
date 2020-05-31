@@ -81,3 +81,52 @@ resolution->1600
 
 img-> adjust-> brightness and const->const>+100
 
+
+transparent txt
+--------------------
+open img
+take a duplicate copy for the layer, hide on it
+alt+[
+press t,start text 
+transfrom the text bigger and take the duplicate copy for the txt
+hide the original txt
+give the effects to thhe text ccocpy
+now press alt+]
+now command ctrl+alt+g-> clipping mask
+select the original text
+convert the text as a layer
+give prespective
+layer0-> original mela oru layer create pananun black background fill decrease pananum
+layer mask-> gradeint tool shadow effects add panalam
+
+Visiting cards
+-----------------
+
+//image tab-> adjustments-> curves
+
+size(wid:3inc,heig:2inc,res:300)
+press m-> ctrl+shif+n-> gradient
+press pen tool orange la drag pananum ctrl+enter
+marque toool (circle)->ctrl+shift+n->alt+del->duplicate copy->right click on thumbnail->select pixel->x->alt+del->ctrl+d->ctrl+t->alt shift , size adjust
+select layer3,layer3copy -> ctrl+e -> adjust to below m and a text layer
+layer3 copy take another copy 2 adjsut to layer3 copy mela
+eraser tool->hardness(100) and erase the layer3 copy 
+select layer3 copy 2 -> magic want tool -> color picker
+thn drag and paste the layer3 copy up and down the layer 3 copy 2
+select the pen tool-> ctrl + enter
+fpr symbols rectangle tool >custom slide tool >e
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
